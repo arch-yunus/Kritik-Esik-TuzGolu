@@ -1,0 +1,42 @@
+{
+  "project_name": "KRITIK-ESIK-TUZGOLU",
+  "category": "Halophyte Genomics Database v1.0",
+  "species_catalog": [
+    {
+      "scientific_name": "Salicornia europaea",
+      "common_name": "Deniz Börülcesi",
+      "salinity_threshold_ds_m": 80.0,
+      "economic_value": "High (Food / Biofuel)",
+      "carbon_sequestration_rate": "High",
+      "lchi_priority": 1
+    },
+    {
+      "scientific_name": "Atriplex halimus",
+      "common_name": "Tuz Çalısı",
+      "salinity_threshold_ds_m": 45.0,
+      "economic_value": "Medium (Fodder)",
+      "carbon_sequestration_rate": "Moderate",
+      "lchi_priority": 2
+    },
+    {
+      "scientific_name": "Chenopodium quinoa",
+      "common_name": "Kinoa",
+      "salinity_threshold_ds_m": 25.0,
+      "economic_value": "Very High (Cash Crop)",
+      "carbon_sequestration_rate": "Low",
+      "lchi_priority": 3
+    },
+    {
+      "scientific_name": "Limonium sinuatum",
+      "common_name": "Güneş Çiçeği",
+      "salinity_threshold_ds_m": 35.0,
+      "economic_value": "Low (Ornamental/Rehab)",
+      "carbon_sequestration_rate": "Moderate",
+      "lchi_priority": 4
+    }
+  ],
+  "rehabilitation_logic": {
+    "hyper_saline_recovery": "Sequential planting: Salicornia -> Atriplex -> Quinoa",
+    "water_efficiency": "90% reduction compared to standard irrigation for halophytes"
+  }
+}
