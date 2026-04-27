@@ -5,6 +5,11 @@
 
 > *"Doğa ile olan savaşımızda galip gelirsek, kaybedeceğiz. Bize gereken şey doğayı yenmek değil, onun asimetrik kurallarına düşük maliyetli, yüksek etkili (LCHI) ve akılcı bir tasarımla uyum sağlamaktır."*
 
+### 🚀 Hızlı Erişim
+- [🌾 Tuz Gölü Tarım Rehberi](lchi_solutions/tuz_golu_agri_guide.md)
+- [🌱 Halofit Manifestosu](lchi_solutions/halophyte_manifesto.md)
+- [📡 IoT Sensör Şemaları](lchi_solutions/open_sensor_hw/lchi_sensor_v1_bom.md)
+
 ## 📜 1. Felsefi Temel ve Doktrin: Ekolojik Asimetri
 Tuz Gölü Havzası'ndaki çöküş, sadece su kıtlığı değil, **sistemsel bir simetri hatasıdır.** İnsanlık, doğanın doğrusal olmayan (non-linear) ve asimetrik gücüne karşı hantal, pahalı ve merkezi (simetrik) çözümlerle karşılık vermeye çalışmıştır. Bu manifesto, bu paradigmayı kökten reddeder.
 
