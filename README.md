@@ -52,6 +52,7 @@ Milyonluk istasyonlar yerine, sahaya dağıtılan 10 dolarlık "su dervişleri":
 
 ### 🧠 C. Stratejik Karar: Core Engine (Sentinel & Water-AI)
 *   **Sentinel Edge Engine:** Sentinel-2 verilerini işleyerek MSI (Moisture Stress Index) ve NDVI haritaları üretir. Gökyüzündeki gözümüzdür.
+*   **Veri Füzyonu:** Uydu spektral verisi ile yerdeki IoT EC/Nem verisinin yapay zeka ile çapraz doğrulanması (Multi-Source Verification).
 *   **Water-Rationing AI:** Q-Learning algoritmaları kullanarak, mevcut su bütçesini "en etkili asimetrik darbe" olacak şekilde sahaya dağıtır. Su, bir ihtiyaç değil, stratejik bir mühimmattır.
 
 ---
@@ -71,7 +72,7 @@ Milyonluk istasyonlar yerine, sahaya dağıtılan 10 dolarlık "su dervişleri":
 │   ├── sentinel_edge_calc.py  # MSI/NDVI/EVI hesaplayan spektral analiz motoru
 │   ├── water_rationing_ai.py  # Otonom su kısıtlama optimizasyonu (Q-Learning)
 │   └── firmware_esp32/        # Düşük güç tüketimli sensör yazılımları
-├── 🎨 assets/                 # Görsel materyaller ve banner
+├── 🎨 assets/                 # Görsel materyaller ve bannerlar
 ├── 🗺️ risk_maps/               # GIS çıktıları ve risk analiz raporları
 └── README.md
 ```
@@ -96,7 +97,17 @@ Ekolojik sistemlerin savunması, siber güvenlik prensipleriyle yönetilmelidir:
 
 ---
 
-## 🚀 7. Katılım Protokolü (Açık Çağrı)
+![Community Banner](assets/community_banner.png)
+
+## 🤝 7. Topluluk ve Açık Yönetişim (Open Governance)
+LCHI çözümleri, kapalı kapılar ardında değil, sahada ve açık kaynak prensipleriyle geliştirilir.
+*   **Socio-Engineering:** Çiftçilerin sisteme adaptasyonu için düşük eşikli (low-barrier) arayüzler ve eğitim modülleri.
+*   **Open Hardware:** Herkesin kendi sensörünü üretebileceği açık devre şemaları ve yerel üretim kooperatifleri.
+*   **Şeffaf Veri:** Havzanın sağlık durumu, tüm paydaşlar tarafından gerçek zamanlı olarak izlenebilir.
+
+---
+
+## 🚀 8. Katılım Protokolü (Açık Çağrı)
 
 Bu proje, bürokratik bir kurum değil, asimetrik bir mühendislik topluluğudur.
 1.  **Kod ile Destek:** `core_engine` algoritmalarını optimize edin, daha hafif modeller geliştirin.
@@ -107,7 +118,7 @@ Bu proje, bürokratik bir kurum değil, asimetrik bir mühendislik topluluğudur
 
 ![Future Vision Banner](assets/future_vision_banner.png)
 
-## 📜 8. Gelecek Vizyonu: Halofit Karbon Yakalama
+## 📜 9. Gelecek Vizyonu: Halofit Karbon Yakalama
 Tuz Gölü Havzası, sadece bir tarım alanı değil, dünyanın en büyük **mavi-karbon (blue-carbon)** yakalama merkezlerinden biri olma potansiyeline sahiptir. Halofit bitkiler, tuzu hapsederken atmosferdeki karbonu da toprağın derinliklerine gömer. LCHI doktrini ile bu süreci hızlandırıyoruz.
 
 > *"Tuz Gölü, bir çöküşün değil; asimetrik mühendislik ile doğayı yeniden anlamanın sıfır noktası olacaktır."*
