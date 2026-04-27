@@ -30,9 +30,13 @@ Aşırı sulama, toprağın derinliklerindeki tuzu yüzeye taşıyarak "Kimyasal
 
 ---
 
+![Architecture Banner](assets/architecture_banner.png)
+
 ## ⚙️ 3. LCHI (Low-Cost-High-Impact) Çözüm Mimarisi
 
 Sistem, üç ana asimetrik sütun üzerine inşa edilmiştir:
+
+![Biology Banner](assets/biology_banner.png)
 
 ### 🌱 A. Biyolojik Taarruz: Halofit Doktrini
 Tuzla savaşmak yerine, tuzu **ekonomik bir girdi** olarak kabul ediyoruz.
@@ -100,6 +104,8 @@ Bu proje, bürokratik bir kurum değil, asimetrik bir mühendislik topluluğudur
 3.  **Veri ile Destek:** Yerel tohum verilerini ve toprak analizlerini `data` klasörüne işleyin.
 
 ---
+
+![Future Vision Banner](assets/future_vision_banner.png)
 
 ## 📜 8. Gelecek Vizyonu: Halofit Karbon Yakalama
 Tuz Gölü Havzası, sadece bir tarım alanı değil, dünyanın en büyük **mavi-karbon (blue-carbon)** yakalama merkezlerinden biri olma potansiyeline sahiptir. Halofit bitkiler, tuzu hapsederken atmosferdeki karbonu da toprağın derinliklerine gömer. LCHI doktrini ile bu süreci hızlandırıyoruz.
