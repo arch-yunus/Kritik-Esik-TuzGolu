@@ -121,6 +121,14 @@ Bu proje, bürokratik bir kurum değil, asimetrik bir mühendislik topluluğudur
 
 ---
 
+## 📖 10. Operasyonel Rehber: Tuz Gölü Tarımı
+Sahadaki her aktör (çiftçi, mühendis, yerel yönetici) için hazırlanan **[Tuz Gölü Tarım Rehberi](lchi_solutions/tuz_golu_agri_guide.md)**, bu manifestonun uygulanabilir kıldığı ana dökümandır. Rehber şunları kapsar:
+*   **Pratik Ekim Listeleri:** Hangi parselde hangi bitkinin (Salicornia, Kinoa vb.) yetişeceği.
+*   **LCHI Sulama Protokolleri:** Su restrictsiyonu altında maksimum verim alma teknikleri.
+*   **Ekonomik Çevrim:** Üretilen ürünlerin pazara arz stratejisi.
+
+---
+
 ![Future Vision Banner](assets/future_vision_banner.png)
 
 ## 📜 9. Gelecek Vizyonu: Halofit Karbon Yakalama
