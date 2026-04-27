@@ -1,0 +1,32 @@
+{
+  "basin_metadata": {
+    "name": "Tuz Gölü Güney Havzası",
+    "timestamp": "2026-04-27T00:00:00Z",
+    "coordinates": [38.5, 33.3]
+  },
+  "synthetic_deltas": [
+    {
+      "region_id": "ZONE_A_NORTHEAST",
+      "salinity_index": 0.85,
+      "moisture_content": 0.12,
+      "tipping_point_risk": "CRITICAL"
+    },
+    {
+      "region_id": "ZONE_B_CENTER",
+      "salinity_index": 0.45,
+      "moisture_content": 0.35,
+      "tipping_point_risk": "MODERATE"
+    },
+    {
+      "region_id": "ZONE_C_STEPPE",
+      "salinity_index": 0.15,
+      "moisture_content": 0.55,
+      "tipping_point_risk": "LOW"
+    }
+  ],
+  "lchi_intervention_results": {
+    "halophyte_coverage": "12%",
+    "soil_rehab_rate": "0.02 units/month",
+    "water_savings_vs_traditional": "68%"
+  }
+}
