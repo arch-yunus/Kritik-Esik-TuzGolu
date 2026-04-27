@@ -11,8 +11,9 @@ Geleneksel tarım, yüksek girdi (su, enerji, gübre) ve düşük çıktı döng
 | Araç | Geleneksel Maliyet | LCHI Alternatifi | Etki Oranı |
 | :--- | :--- | :--- | :--- |
 | **Toprak Analizi** | Laboratuvar ($200+) | DIY IoT EC Sensör (~$15) | Sürekli Veri Akışı |
-| **Sulama Yönetimi** | İnsan/Zaman Odaklı | Edge-AI Uydu Kontrollü | %70+ Su Tasarrufu |
-| **Rehabilitasyon** | Toprak Yıkama (Milyarlar) | Halofit Ekim (Sadece Tohum) | Kalıcı Çözüm |
+| **Biyolojik Islah** | Toprak Yıkama ($ Milyon) | Salicornia Rehabilitasyonu | %100 Doğal Geri Kazanım |
+| **Hayvan Yemi** | İthal Yonca/Soya ($$$) | Atriplex / Halofit Silajı | %40 Düşük Maliyet |
+| **Nakit Mahsul** | Su Oburu Mısır / Şeker P. | LCHI Kinoa Üretimi | 3x Su Tasarrufu / Yüksek Kâr |
 
 ## 3. Eylem Planı (0-12 Ay)
 - **Q1:** Uydu üzerinden kritik eşik (Tipping Point) haritalarının netleştirilmesi.

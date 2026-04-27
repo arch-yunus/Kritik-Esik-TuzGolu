@@ -19,7 +19,15 @@ Tuz Gölü Havzası'ndaki ekolojik çöküşe karşı en güçlü asimetrik sila
 - **LCHI Etkisi:** Hayvancılık için düşük maliyetli, yüksek proteinli yem kaynağı.
 - **Uygulama:** Tarım arazilerinin sınırlarında "Yeşil Duvar" (Green Wall) savunma hattı olarak kullanılır.
 
-## 2. Fitoremediasyon Protokolü
+## 2. Taktiksel Zonlama (Zonation) Doktrini
+
+Havzanın çöküş derinliğine göre bitki yerleşimi LCHI etkisini belirleyen ana unsurdur:
+
+*   **Bölge A (En Yüksek Tuzluluk - Obruk Hattı):** Sadece *Salicornia* (Deniz Börülcesi) ve *Salsola* (Soda Otu). Amacı toprağı yıkatmak değil, tuzu bünyesine hapsetmektir.
+*   **Bölge B (Orta Tuzluluk - Tampon Bölge):** *Atriplex* (Tuz Çalısı) "Yeşil Duvar" hattı. Rüzgar erozyonunu keser, hayvancılık için protein sağlar.
+*   **Bölge C (Düşük/Orta Tuzluluk - Ekonomik Hat):** *Kinoa* ve *Beta vulgaris* (Pazı/Pancar türevleri). Mevcut tarımsal çöküşün yerine geçecek ana ekonomik mühimmattır.
+
+## 3. Fitoremediasyon Protokolü
 1. **Analiz:** Uydu verisi ile tuz konsantrasyonu en yüksek alanların belirlenmesi.
 2. **Müdahale:** Türlerin tuzluluk eşiğine göre kademeli ekimi.
 3. **Hasat:** Bitkilerin bünyesine aldığı tuzla birlikte sahadan uzaklaştırılması (Toprak rehabilitasyonu).
