@@ -1,4 +1,5 @@
 
+![Project Banner](assets/banner.png)
 
 # 🛡️ KRİTİK-EŞİK-TUZGÖLÜ: Ekolojik Asimetri ve LCHI Tarım Manifestosu
 
