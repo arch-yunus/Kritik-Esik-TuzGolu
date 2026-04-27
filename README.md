@@ -80,10 +80,19 @@ Milyonluk istasyonlar yerine, sahaya dağıtılan 10 dolarlık "su dervişleri":
 2.  **Faz 2: Dijital Baraj:** Pilot bölgelerde 100+ LCHI sensörünün konuşlandırılması ve LoRa ağının aktivasyonu.
 3.  **Faz 3: Biyolojik Restorasyon:** Kritik eşiği aşan bölgelerde halofit ekim simülasyonları ve saha uygulaması.
 4.  **Faz 4: Otonom Ekosistem:** Sistemin insan müdahalesinden bağımsız, veri akışına göre sulama ve rehabilitasyon kararları alması.
+5.  **Faz 5: Biyo-Rafineri:** Hasat edilen halofitlerin yerinde (in-situ) işlenerek biyodizel ve protein izolatına dönüştürülmesi.
 
 ---
 
-## 🚀 6. Katılım Protokolü (Açık Çağrı)
+## 🛡️ 6. Tasarım Yoluyla Güvenlik (Security by Design)
+Ekolojik sistemlerin savunması, siber güvenlik prensipleriyle yönetilmelidir:
+*   **Zero Trust:** Sahadaki her veri düğümü, diğerleriyle kriptografik olarak doğrulanmalıdır.
+*   **Redundancy (Yedeklilik):** Veri akışı kesilse bile, otonom vanalar "son güvenli durum" (safe mode) protokolüne geçmelidir.
+*   **Defense in Depth:** Uydu verisi, yer sensörleri ve manuel gözlemlerle çok katmanlı bir doğrulama ağı.
+
+---
+
+## 🚀 7. Katılım Protokolü (Açık Çağrı)
 
 Bu proje, bürokratik bir kurum değil, asimetrik bir mühendislik topluluğudur.
 1.  **Kod ile Destek:** `core_engine` algoritmalarını optimize edin, daha hafif modeller geliştirin.
@@ -92,7 +101,7 @@ Bu proje, bürokratik bir kurum değil, asimetrik bir mühendislik topluluğudur
 
 ---
 
-## 🛡️ 7. Etik ve Stratejik Vizyon
-Bu proje, sadece bir tarım projesi değil, bir **hayatta kalma mühendisliği** denemesidir. İklim krizinin bir "savaş" olduğu gerçeğinden hareketle, LCHI felsefesiyle bu savaşı asimetrik yollarla kazanmayı hedefliyoruz.
+## 📜 8. Gelecek Vizyonu: Halofit Karbon Yakalama
+Tuz Gölü Havzası, sadece bir tarım alanı değil, dünyanın en büyük **mavi-karbon (blue-carbon)** yakalama merkezlerinden biri olma potansiyeline sahiptir. Halofit bitkiler, tuzu hapsederken atmosferdeki karbonu da toprağın derinliklerine gömer. LCHI doktrini ile bu süreci hızlandırıyoruz.
 
 > *"Tuz Gölü, bir çöküşün değil; asimetrik mühendislik ile doğayı yeniden anlamanın sıfır noktası olacaktır."*
